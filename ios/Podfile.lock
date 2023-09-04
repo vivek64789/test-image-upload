@@ -1,0 +1,29 @@
+PODS:
+  - fhoto_editor (0.0.1):
+    - Flutter
+    - TOCropViewController (~> 2.6.1)
+  - Flutter (1.0.0)
+  - TOCropViewController (2.6.1)
+
+DEPENDENCIES:
+  - fhoto_editor (from `.symlinks/plugins/fhoto_editor/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - TOCropViewController
+
+EXTERNAL SOURCES:
+  fhoto_editor:
+    :path: ".symlinks/plugins/fhoto_editor/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  fhoto_editor: 0f5fe41cafba38e8a6b6d9974d68e17ec9f5f693
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  TOCropViewController: edfd4f25713d56905ad1e0b9f5be3fbe0f59c863
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.11.3
